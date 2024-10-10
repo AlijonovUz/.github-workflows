@@ -2,7 +2,7 @@ from telebot import TeleBot
 from telebot.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 import os
 
-bot = TeleBot("7485312827:AAGI7KoGkPfBCUreZFiaHqA69zBymg6BFJc")
+bot = TeleBot("7055966327:AAEdUy3UwQyCZql32GPEevL_zBq2lCt-9ok")
 admin = "6150504681"
 
 @bot.message_handler(commands=['start', 'help'])
